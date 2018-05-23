@@ -28,6 +28,11 @@ h3 {
   font-size: 18px;
   color: white;
 }
+
+a.topnav:link {
+  color:white;
+}
+
 p {
   font-size: 14px;
 }
