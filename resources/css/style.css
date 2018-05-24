@@ -1,11 +1,6 @@
 .banner {
   background-image: url("../images/the-flatiron-building.png");
 }
-div#site-header {
-  padding-top: 50px;
-  padding-bottom: 50px;
-
-}
 
 body {
   text-align: center;
