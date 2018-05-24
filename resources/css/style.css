@@ -1,5 +1,6 @@
 .banner {
   background-image: url("../images/the-flatiron-building.png");
+  height: 300px;
 }
 
 body {
